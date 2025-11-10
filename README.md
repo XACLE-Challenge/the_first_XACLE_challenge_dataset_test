@@ -31,7 +31,7 @@ You will receive an automated reply with the download link.
 
 ## Statistics
 
-|  | Test | Validation |
+|  | Test |
 | :--- | ---: | ---: |
 | Evaluations | 30,000 |
 | Audio–text pairs | 3,000 |
