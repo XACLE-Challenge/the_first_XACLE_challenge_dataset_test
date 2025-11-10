@@ -26,7 +26,7 @@ You will receive an automated reply with the download link.
 
 ## File format
 
--  test.csv: There are 2 columns in the each csv file.
+-  test.csv: There are 2 columns in the csv file.
 	- wave_file_name: The file name of audio.
 	- text: The text's corresponding audio.
 
