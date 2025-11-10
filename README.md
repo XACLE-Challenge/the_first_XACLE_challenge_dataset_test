@@ -1,4 +1,4 @@
-# The first XACLE challenge dataset
+# The first XACLE challenge test dataset
 
 ## Contents
 
@@ -9,7 +9,7 @@ This dataset consists of the following componets:
 	This dataset includes 3,000 audio–text pairs.
 	Each text is written in English.
 	All audio samples was converted to mono 16-bit 16 kHz format.
-	
+
 ## Download
 
 To download the dataset, please send an email to dataset@xacle.org with “Download test data” in the subject line. 
@@ -47,6 +47,7 @@ XACLE_dataset
         ├──   .
         ├──   .
         └──   .
+```
 
 ## Citation
 
