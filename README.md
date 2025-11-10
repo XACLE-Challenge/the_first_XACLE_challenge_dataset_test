@@ -31,8 +31,8 @@ You will receive an automated reply with the download link.
 
 ## Statistics
 
-|  | Test |
-| :--- | ---: | ---: |
+|  | Test | |
+| :--- | ---: | |
 | Evaluations | 30,000 |
 | Audio–text pairs | 3,000 |
 | Audio duration [s] | 30,000 |
