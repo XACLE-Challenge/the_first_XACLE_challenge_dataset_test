@@ -9,19 +9,7 @@ This dataset consists of the following componets:
 	This dataset includes 3,000 audio–text pairs.
 	Each text is written in English.
 	All audio samples was converted to mono 16-bit 16 kHz format.
-
-- 11-point semantic-alignment scores between audio and text (per listener)
-
-	The materials will be released after the conclusion of the challenge.
-
-- Average semantic-alignment scores
 	
-	The materials will be released after the conclusion of the challenge.
-
-- Listener IDs
-
-	The materials will be released after the conclusion of the challenge.
-
 ## Download
 
 To download the dataset, please send an email to dataset@xacle.org with “Download test data” in the subject line. 
@@ -33,7 +21,6 @@ You will receive an automated reply with the download link.
 
 |  | Test |
 | :--- | ---: |
-| Evaluations | 30,000 |
 | Audio–text pairs | 3,000 |
 | Audio duration [s] | 30,000 |
 
