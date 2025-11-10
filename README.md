@@ -33,9 +33,9 @@ You will receive an automated reply with the download link.
 
 |  | Test | |
 | :--- | ---: | |
-| Evaluations | 30,000 |
-| Audio–text pairs | 3,000 |
-| Audio duration [s] | 30,000 |
+| Evaluations | 30,000 | |
+| Audio–text pairs | 3,000 | |
+| Audio duration [s] | 30,000 | |
 
 ## File format
 
