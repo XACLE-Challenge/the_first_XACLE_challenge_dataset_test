@@ -10,6 +10,20 @@ This dataset consists of the following componets:
 	Each text is written in English.
 	All audio samples was converted to mono 16-bit 16 kHz format.
 
+- 11-point semantic-alignment scores between audio and text (per listener)
+
+	This dataset includes subjective evaluation scores for semantic alignment between audio and text.
+	The semantic-alignment score is on a an 11-point scale from 0 ("does not match at all") to 10 ("matched exactly").
+	Each audio–text pair is evaluated by four native English-speaking .
+
+- Average semantic-alignment scores
+	
+	This dataset includes average semantic-alignment scores for each audio–text pair.
+
+- Listener IDs
+
+	This dataset includes listener IDs of those who scored the semantic alignment between audio and text.
+
 ## Download
 
 To download the dataset, please send an email to dataset@xacle.org with “Download test data” in the subject line. 
