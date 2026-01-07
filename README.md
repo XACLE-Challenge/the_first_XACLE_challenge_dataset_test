@@ -40,9 +40,17 @@ You will receive an automated reply with the download link.
 
 ## File format
 
--  test.csv: There are 2 columns in the csv file.
+-  test.csv: There are 4 columns in the csv file.
+   	- wave_file_name: The file name of audio.
+	- text: The text's corresponding audio.
+	- 11-point semantic-alignment score: The evaluation scores for semantic alignment between audio and text by each listener.
+	- listener_id: The listener ID who scored the sematic-alignment scores.
+   
+- test_average.csv: There are 3 columns in the each csv file.
 	- wave_file_name: The file name of audio.
 	- text: The text's corresponding audio.
+	- average_semantic_alignement_score: The average semantic-alignment scores of each audio-text pair.
+
 
 ## Directory structure
 
